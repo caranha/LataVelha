@@ -1,0 +1,25 @@
+{
+  "name": "latavelha",
+  "version": "0.1.0",
+  "description": "A bot that does cool shit for a cozy place",
+  "main": "latavelha.js",
+  "scripts": {
+    "main": "latavelha.js",
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "caranha",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}
